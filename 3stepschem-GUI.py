@@ -183,7 +183,7 @@ class ChemApp:
                 update_progress_gui(self.progress_var, progress_count, total_sheets)
                 self.root.update_idletasks()
 
-                # --- Input Lab SPW/SCS Data ---
+                # --- Input Lab SPW/SCS/NCG Data ---
                 file_path = f
                 sheet_proc = sheet
                     
