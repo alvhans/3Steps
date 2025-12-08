@@ -166,7 +166,7 @@ help you with your daily work!
             for sheet in sheet_list:
                 update_progress(progress_count, total_sheets)
                 
-                # --- Input Lab SPW/SCS Data ---
+                # --- Input Lab SPW/SCS/NCG Data ---
                 file_path = f
                 sheet_proc = sheet
                     
